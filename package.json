@@ -1,0 +1,20 @@
+{
+  "name": "unit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.qs.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0"
+  }
+}
