@@ -1,5 +1,5 @@
 export function getData(cb){
-  setTimeout(() => {
+  setInterval(() => {
     cb({country:'China'})
   }, 3000);
 }
